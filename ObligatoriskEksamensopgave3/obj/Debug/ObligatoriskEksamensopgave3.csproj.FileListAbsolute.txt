@@ -1,0 +1,45 @@
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.exe.config
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.exe
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.pdb
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\MainWindow.g.cs
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\App.g.cs
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3_MarkupCompile.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3_MarkupCompile.lref
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\MainWindow.baml
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.g.resources
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.Properties.Resources.resources
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csproj.GenerateResource.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.exe
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.pdb
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.exe.config
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.exe
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.pdb
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\MainWindow.g.cs
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\App.g.cs
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3_MarkupCompile.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3_MarkupCompile.lref
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\MainWindow.baml
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.g.resources
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.Properties.Resources.resources
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csproj.GenerateResource.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.exe
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.pdb
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\Informationsteknologi EA\Videregående Programmering\Eksamen\ObligatoriskEksamensopgave3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csprojAssemblyReference.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.exe.config
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.exe
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\bin\Debug\ObligatoriskEksamensopgave3.pdb
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csprojAssemblyReference.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\MainWindow.g.cs
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\App.g.cs
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3_MarkupCompile.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3_MarkupCompile.lref
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\MainWindow.baml
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.g.resources
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.Properties.Resources.resources
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csproj.GenerateResource.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.exe
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Videregående Programmering Eksamensopgave 3\ObligatoriskEksamensopgave3\obj\Debug\ObligatoriskEksamensopgave3.pdb
