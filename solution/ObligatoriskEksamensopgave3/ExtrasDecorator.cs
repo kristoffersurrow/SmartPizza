@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObligatoriskEksamensopgave3
 {
-    abstract class ExtrasDecorator : IPizza
+    public abstract class ExtrasDecorator : IPizza
     {
         protected IPizza pizza;
 

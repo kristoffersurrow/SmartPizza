@@ -16,9 +16,7 @@ using System.Collections;
 
 namespace ObligatoriskEksamensopgave3
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+
     public partial class MainWindow : Window
     {
         //Instansvariabler
@@ -84,7 +82,7 @@ namespace ObligatoriskEksamensopgave3
 
         }
 
-        //Tilbøhør tilføjes
+        //Tilbehør tilføjes
         private void PepperoniExtraCheckbox_Checked(object sender, RoutedEventArgs e)
         {
             extrasList.Add("Pepperoni");
@@ -155,7 +153,7 @@ namespace ObligatoriskEksamensopgave3
             if (pizzaType != null)
             {
                 //Laver Pizza med toppings
-                pizza = MakePizza(extrasList);
+                pizza = pizza_factory.MakePizza(extrasList, pizzaType);
 
                 //Pris og Calorie label opdateres
                 PriceLabel.Content = string.Format("{0:C}",pizza.Price());
@@ -201,19 +199,6 @@ namespace ObligatoriskEksamensopgave3
             FamilyPizzaCheckbox.IsChecked = false;
 
             ExtrasGroupBox.Visibility = Visibility.Hidden;
-        }
-
-        //Pizza laves i factory, og decorators tilføjes
-        private IPizza MakePizza(List<string> _extrasList)
-        {
-            IPizza _pizza = pizza_factory.CreatePizza(pizzaType);
-
-            foreach (string extra in _extrasList)
-            {
-                _pizza = pizza_factory.AddExtras(extra,_pizza);
-            }
-
-            return _pizza;
         }
 
     }

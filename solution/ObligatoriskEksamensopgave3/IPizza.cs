@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObligatoriskEksamensopgave3
 {
-    interface IPizza
+    public interface IPizza
     {
         string Name();
 

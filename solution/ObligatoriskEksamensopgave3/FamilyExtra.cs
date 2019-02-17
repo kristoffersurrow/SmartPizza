@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObligatoriskEksamensopgave3
 {
-    class FamilyExtra : ExtrasDecorator
+    public class FamilyExtra : ExtrasDecorator
     {
         public override string Name() { return "Familie " + pizza.Name(); }
 

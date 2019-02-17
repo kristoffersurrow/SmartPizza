@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObligatoriskEksamensopgave3
 {
-    class RejerMedTunPizza : IPizza
+    public class RejerMedTunPizza : IPizza
     {
         public string Name() { return "Rejer Med Tun Pizza"; }
 

@@ -57,8 +57,6 @@
     <Compile Include="CheeseExtra.cs" />
     <Compile Include="ExtrasDecorator.cs" />
     <Compile Include="FamilyExtra.cs" />
-    <Compile Include="FamilyPizzaFactory.cs" />
-    <Compile Include="FamilyRejerMedTunPizza.cs" />
     <Compile Include="IPizzaFactory.cs" />
     <Compile Include="KebabPizza.cs" />
     <Compile Include="OrdinaryPizzaFactory.cs" />
@@ -73,7 +71,6 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="FamilyPepperoniPizza.cs" />
     <Compile Include="IPizza.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>

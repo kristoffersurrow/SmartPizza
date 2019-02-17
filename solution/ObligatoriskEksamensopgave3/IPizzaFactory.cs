@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ObligatoriskEksamensopgave3
 {
-    interface IPizzaFactory
+    public interface IPizzaFactory
     {
-        IPizza CreatePizza(string type);
-
-        IPizza AddExtras(string type, IPizza pizza);
+        IPizza MakePizza(List<string> ekstrasList, string pizzaType);
     }
 }

@@ -6,9 +6,23 @@ using System.Threading.Tasks;
 
 namespace ObligatoriskEksamensopgave3
 {
-    class OrdinaryPizzaFactory : IPizzaFactory
+    public class OrdinaryPizzaFactory : IPizzaFactory
     {
-        public IPizza CreatePizza(string type)
+        //Pizza laves, og decorators tilføjes
+        public IPizza MakePizza(List<string> _extrasList, string _pizzaType)
+        {
+            IPizza pizza = CreatePizza(_pizzaType);
+
+            foreach (string extra in _extrasList)
+            {
+                pizza = AddExtras(extra, pizza);
+            }
+
+            return pizza;
+        }
+
+
+        private IPizza CreatePizza(string type)
         {
 
             switch (type)
@@ -31,7 +45,7 @@ namespace ObligatoriskEksamensopgave3
          
         }
 
-        public IPizza AddExtras(string type, IPizza pizza)
+        private IPizza AddExtras(string type, IPizza pizza)
         {
             if (type == "Pepperoni")
             {

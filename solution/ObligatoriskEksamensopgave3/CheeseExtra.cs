@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObligatoriskEksamensopgave3
 {
-    class CheeseExtra : ExtrasDecorator
+    public class CheeseExtra : ExtrasDecorator
     {
         public override string Name() { return pizza.Name() + ", Extra Ost"; }
 
