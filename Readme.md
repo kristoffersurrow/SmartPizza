@@ -11,6 +11,7 @@ Dette er gjort ved brug af et "Factory pattern" i samarbejde med et "Decorator p
 Det har jeg lært:
 - C#
 - Design patterns (Factory, Decorator)
+- Interfaces, Inheritance, Abstraction
 - WPF
 
-![](Smartpizza.png)
+![](Smartpizza.gif)
